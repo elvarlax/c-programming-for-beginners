@@ -6,9 +6,9 @@ All coursework for the C Programming For Beginners - Master the C Language by Ti
 
 ## Curriculum
 
-- [ ] Section 01 - Introduction
-- [ ] Section 02 - Installing Required Software
-- [ ] Section 03 - Starting to write code
+- [x] Section 01 - Introduction
+- [x] Section 02 - Installing Required Software
+- [x] Section 03 - Starting to write code
 - [ ] Section 04 - Basic Concepts
 - [ ] Section 05 - Variables and Data Types
 - [ ] Section 06 - Operators
