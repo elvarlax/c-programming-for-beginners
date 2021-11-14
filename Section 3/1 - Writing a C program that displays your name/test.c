@@ -1,8 +1,8 @@
 /*
- * Section 3 Challenge
+ * Section 3 Challenge - Writing a C program that displays your name
  * =========================================================
  * Write a C program that displays your first name as output
- * - Create a project in Code::Blocks
+ * - Create a project in Code::Blocks or Visual Studio Code
  * - Delete the "main.c" file that was auto-generated when creating the project
  * - Create a new c source file in the above project (name the file test.c)
  * - Copy the source code on the next slide into your test.c program
