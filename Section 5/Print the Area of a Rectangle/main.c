@@ -1,5 +1,5 @@
 /*
- * Section 5 Challenge
+ * Section 5 Challenge - Print the Area of a Rectangle
  * =========================================================
  * In this challenge, you are to create a C program that displays the perimeter and area of a rectangle
  * 
