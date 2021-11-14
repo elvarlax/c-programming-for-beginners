@@ -10,8 +10,8 @@ All coursework for the C Programming For Beginners - Master the C Language by Ti
 - [x] Section 02 - Installing Required Software
 - [x] Section 03 - Starting to write code
 - [x] Section 04 - Basic Concepts
-- [ ] Section 05 - Variables and Data Types
-- [ ] Section 06 - Operators
+- [x] Section 05 - Variables and Data Types
+- [x] Section 06 - Operators
 - [ ] Section 07 - Control Flow
 - [ ] Section 08 - Arrays
 - [ ] Section 09 - Functions
